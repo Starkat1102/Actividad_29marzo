@@ -1,0 +1,36 @@
+.art1, .art2, .art3, .art4, .art5, .art6{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+}
+
+.art1{
+    background-color: aqua;
+    border: aquamarine dotted .5rem;
+}
+
+.art2{
+    background-color: red;
+    border: sandybrown dashed .5rem;
+}
+
+.art3{
+    background-color: green;
+    border: darkorange solid .5rem;
+}
+
+.art4{
+    background-color: yellow;
+    border: blue dotted .5rem;
+}
+
+.art5{
+    background-color: black;
+    border: yellow dashed .5rem;
+}
+
+.art6{
+    background-color: purple;
+    border: royalblue solid .5rem;
+}
